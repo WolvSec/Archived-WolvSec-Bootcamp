@@ -14,7 +14,7 @@ Welcome to the Wolverine Security Capture The Flag bootcamp! We hope you will en
 
 Minimum tools required for CTFs can be found on our [setup page (click here)](https://gitlab.umich.edu/wolvsec/wolvsec/blob/master/setup.md). Please install these before attending as the internet isn't always fast :(
 
-<h2 id="web">Web Application</h2>
+<h2 id="web">Day 1: Web Application</h2>
 
 * Client side: HTML, CSS, JS
 * Server side: Java, PHP, Python, Ruby
@@ -32,7 +32,7 @@ Minimum tools required for CTFs can be found on our [setup page (click here)](ht
 * Advanced
 	* Bypassing
 
-<h2 id="rev">Reverse Engineering</h2>
+<h2 id="rev">Day 2: Reverse Engineering</h2>
 
 * File formats
 * Executable formats: ELF, PE, Mach-o, APK,...
@@ -45,7 +45,7 @@ Minimum tools required for CTFs can be found on our [setup page (click here)](ht
 	* Breakpoints: 0xcc
 
 
-<h2 id="pwn">Binary Exploitation</h2>
+<h2 id="pwn">Day 3: Binary Exploitation</h2>
 
 * Netcat
 * Stack overflow
@@ -66,7 +66,7 @@ Minimum tools required for CTFs can be found on our [setup page (click here)](ht
 	* Kernel exploit
 
 
-<h2 id="crypto">Cryptography</h2>
+<h2 id="crypto">Day 4: Cryptography</h2>
 
 * Base64
 * Hashing
