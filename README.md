@@ -84,7 +84,7 @@ Minimum tools required for CTFs can be found on our [setup page (click here)](ht
 	* RSA
 	* Diffie-Hellman
 
-<h2 id="pentest">Penetration Testing</h2>
+<h2 id="pentest">Day 5: Penetration Testing</h2>
 
 * Reconnaissance
 	* nmap
