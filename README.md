@@ -1,11 +1,16 @@
 # Wolvsec Bootcamp
 
+0. [Introduction](#intro)
 1. [Web Applications](#web)
 2. [Reverse Engineering](#rev)
 3. [Binary Exploitation](#pwn)
 4. [Cryptography](#crypto)
 5. [Penetration Testing](#pentest)
 6. [Slides](#slides)
+
+<h2 id="intro">Introduction</h2>
+
+Welcome to the Wolverine Security Capture The Flag bootcamp! We hope you will enjoy attacking software and systems. This document lists the topics covered during the bootcamp. Bootcamp duration can vary from 1 week long, to 1 semester. Stay tuned for upcoming events :)
 
 <h2 id="web">Web Application</h2>
 
@@ -93,4 +98,7 @@
 <h2 id="slides">Slides</h2>
 
 * [Introduction](https://docs.google.com/presentation/d/12VkQauDZLfSIQGquYYDbeYF_f0b3v2W3GHyO2CerVQk/edit?usp=sharing)
-* [Reverse Engineering](#)
+* [Web](https://docs.google.com/presentation/d/1-x961yuRFC-pMCxPtd-8m5LD0hP4PE4SW1DNAl9j328/edit?usp=sharing)
+* [Binary Exploitation]()
+* [Reverse Engineering]()
+* [Bootcamp 1: Reverse Engineering](https://docs.google.com/presentation/d/1v8HuVKXxUzgs_zCXmfZ9NWypdWhVXiboLmYMHkphx-M/edit?usp=sharing)
