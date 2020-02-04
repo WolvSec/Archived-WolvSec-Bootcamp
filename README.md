@@ -12,6 +12,8 @@
 
 Welcome to the Wolverine Security Capture The Flag bootcamp! We hope you will enjoy attacking software and systems. This document lists the topics covered during the bootcamp. Bootcamp duration can vary from 1 week long, to 1 semester. Stay tuned for upcoming events :)
 
+Minimum tools required for CTFs can be found on our [setup page (click here)](https://gitlab.umich.edu/wolvsec/wolvsec/blob/master/setup.md). Please install these before attending as the internet isn't always fast :(
+
 <h2 id="web">Web Application</h2>
 
 * Client side: HTML, CSS, JS
