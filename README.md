@@ -4,7 +4,8 @@
 2. [Reverse Engineering](#rev)
 3. [Binary Exploitation](#pwn)
 4. [Cryptography](#crypto)
-5. [Penetration Testing](pentest)
+5. [Penetration Testing](#pentest)
+6. [Slides](#slides)
 
 <h2 id="web">Web Application</h2>
 
@@ -75,3 +76,8 @@
 * Asymmetric
 	* RSA
 	* Diffie-Hellman
+
+<h2 id="slides">Slides</h2>
+
+* [Introduction](https://docs.google.com/presentation/d/12VkQauDZLfSIQGquYYDbeYF_f0b3v2W3GHyO2CerVQk/edit?usp=sharing)
+* [Reverse Engineering](#)
