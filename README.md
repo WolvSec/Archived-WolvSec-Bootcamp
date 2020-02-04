@@ -77,6 +77,19 @@
 	* RSA
 	* Diffie-Hellman
 
+<h2 id="pentest">Penetration Testing</h2>
+
+* Reconnaissance
+	* nmap
+* Enumeration
+* Exploitation
+	* Metasploit, exploit-db
+* Privilege Escalation
+	* Linux
+	* Windows
+* Post Exploitation
+	* CNC
+
 <h2 id="slides">Slides</h2>
 
 * [Introduction](https://docs.google.com/presentation/d/12VkQauDZLfSIQGquYYDbeYF_f0b3v2W3GHyO2CerVQk/edit?usp=sharing)
